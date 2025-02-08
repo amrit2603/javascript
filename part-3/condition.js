@@ -1,3 +1,7 @@
+//this are the examples through which i understood different js concept
+
+
+
 let num1 = 29;
 let num2 = 55
 
