@@ -1,3 +1,6 @@
+//this are examples through which i under stood js
+
+
 let teaFlavours = ["green tea","black tea","oolong tea"]
 
 const firsttea = teaFlavours[0]
