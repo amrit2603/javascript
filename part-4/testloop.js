@@ -9,7 +9,7 @@ console.log(sum);
 
 
 
-//problem 2
+problem 2
 
 // let i = 5;
 // let countdown = []
