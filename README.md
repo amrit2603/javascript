@@ -23,7 +23,7 @@ This repository contains various JavaScript problems along with their solutions,
 
 Clone the repository:
 
-git clone https://github.com/your-username/javascript.git
+git clone https://github.com/amrit2603/javascript.git
 
 Navigate to a specific folder and open the respective file.
 
